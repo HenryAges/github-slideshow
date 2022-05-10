@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"the files are in the computer"
 Use the left arrow to go back!
